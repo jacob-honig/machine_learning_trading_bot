@@ -1,7 +1,7 @@
 # Machine Learning Trading Bot
 
 # About
-
+This assignment requires that I assume the role of a financial advisor. My task is to build an algorithmic trading system, which leverages existing trading signals (simple moving averages), and combine it with machine learning algorithms to adapt to new data.
 
 This report is an assignment for the fourteenth week of the FinTech bootcamp curriculum by Trilogy Education Services.
 
